@@ -1,0 +1,5 @@
+#python enviroment
+ENV
+
+#python cache
+*__pycache__
